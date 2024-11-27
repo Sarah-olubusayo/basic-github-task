@@ -1,0 +1,1 @@
+{"uuid":"eb7ac437-bb31-47b6-a393-5d2815325b42","name":"KongaProject","children":["cf5d515c-e665-43be-b95c-043da482bfa3"],"befores":[],"afters":[{"name":"CloseBroswer","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1732013554375,"stop":1732013554770}],"start":1732013532087,"stop":1732013554770}
